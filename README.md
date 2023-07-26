@@ -18,7 +18,6 @@ Skills: BGP / MPLS / Linux / Python / Security / PHP / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyma&show_icons=true&count_private=true)  
 
-![Profile views](https://gpvc.arturio.dev/lyma)  
 
 
 
